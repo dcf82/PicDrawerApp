@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Draw a Pic</string>
+    <string name="action_photos">Photos</string>
+    <string name="action_gallery">Gallery</string>
+    <string name="action_camera">Camera</string>
+    <string name="action_exit">Exit</string>
+    <string name="gallery_activity">Gallery</string>
+    <string name="new_picture">New Picture</string>
+    <string name="click_image">Camera</string>
+    <string name="change_image">Gallery</string>
+    <string name="create_image">Create</string>
+    <string name="brush">Brush</string>
+    <string name="save">Save</string>
+    <string name="paint">Paint</string>
+    <string name="mustache">Mustache</string>
+    <string name="pick_mustache">Pick Mustache</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+    <string name="imageSaved">Image saved to Gallery!</string>
+    <string name="imageSaveError">Sorry, image could not be saved</string>
+    <string name="brushSizeTitle">Select Brush Size:</string>
+    <string name="dialog_color_picker">Color Picker</string>
+    <string name="press_color_to_apply">Press on Color to apply</string>
+    <string name="backgroundColor">"Background Color"</string>
+    <string name="paintColor">"Paint Color"</string>
+    <string name="setAsWallpaper">Do you want set the image as your wallpaper</string>
+    <string name="wallpaperSet">The image was set as your wallpaper</string>
+    <string name="drawPicture">Draw a picture</string>
+
+</resources>
