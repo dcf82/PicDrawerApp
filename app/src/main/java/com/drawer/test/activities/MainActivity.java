@@ -203,6 +203,7 @@ public class MainActivity extends AppCompatActivity {
                 toast = Toast.makeText(getApplicationContext(), getResources().getString(R.string.imageSaveError), Toast.LENGTH_SHORT);
                 toast.show();
             }
+            drawView.destroyDrawingCache();
         } catch (Exception exp) {
             exp.printStackTrace();
         }
